@@ -6,8 +6,8 @@
 class OpencodeGoRollingUsage < Formula
   desc "OpenCode Go rolling/weekly/monthly quota in your terminal and TUI sidebar"
   homepage "https://github.com/Caertos/opencode-go-rolling-usage"
-  url "https://registry.npmjs.org/opencode-go-rolling-usage/-/opencode-go-rolling-usage-0.1.2.tgz"
-  sha256 "b2e13af2dae0aa106902c1676dbbd203aae86ebbc55f7a6c05e815f9163b47af"
+  url "https://registry.npmjs.org/opencode-go-rolling-usage/-/opencode-go-rolling-usage-0.1.4.tgz"
+  sha256 "889c2622ed553f7494ca697c458031753c584d31bf5eed9f504d837fdf5faa69"
   license "MIT"
 
   depends_on "node"
